@@ -1,0 +1,7 @@
+{
+    "form.button.draft": "Otevřít náhled konceptu",
+    "form.button.published": "Otevřít publikovanou verzi",
+    "form.button.copy-link": "Kopírovat odkaz na náhled",
+    "form.button.copy-link.draft": "Kopírovat odkaz na koncept",
+    "notification.success.link-copied": "Odkaz na náhled byl zkopírován do schránky"
+}
